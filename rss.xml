@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[I am where Peace Grows]]></title>
-        <description><![CDATA[I am where Peace Grows]]></description>
-        <link>https://thegrid.ai/peacegrows/</link>
+        <title><![CDATA[Peace Grows]]></title>
+        <description><![CDATA[Peace Grows]]></description>
+        <link>http://peacegrows.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 13:55:29 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/peacegrows/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 15:34:41 GMT</lastBuildDate>
+        <atom:link href="http://peacegrows.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Permaculture Farm]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1abb0e8e-4c61-4a18-87df-717411c8335e.jpg">]]></description>
-            <link>https://thegrid.ai/peacegrows/i-am-where-peace-grows/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1abb0e8e-4c61-4a18-87df-717411c8335e.jpg" alt="" title="">]]></description>
+            <link>http://peacegrows.co/i-am-where-peace-grows/index.html</link>
             <guid isPermaLink="false">268b0312-6123-4164-b874-fde950abc34f</guid>
-            <pubDate>Wed, 20 Apr 2016 13:55:28 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2016 15:34:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
